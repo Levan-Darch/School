@@ -1,0 +1,10 @@
+Django==4.1.9
+djangorestframework
+psycopg2
+Pillow
+mymelipayamak
+django-cors-headers
+boto3
+django-storages
+python-dotenv
+itsdangerous
